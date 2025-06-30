@@ -71,6 +71,11 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Dialogflow](https://img.shields.io/badge/Dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
+![Ngrok](https://img.shields.io/badge/Ngrok-1F1F1F?style=for-the-badge&logo=ngrok&logoColor=white)
+
 
 
 ---
@@ -86,12 +91,6 @@ A web app that detects diseases in potato leaves using image classification.
 
 🔗 [View Repository »](https://github.com/MissBaduwa/potato-disease-classification)
 
----
-
-### 🌊 HYDROBOT
-An autonomous robotic system for cleaning surface water debris in lakes and rivers.  
-🧠 Focused on unsupervised operation using sensors and real-time object detection  
-🌱 Designed for deployment in areas affected by plastic pollution
 
 ---
 
@@ -101,6 +100,20 @@ Analyzes user text, visualizes grammatical issues, and highlights trends.
 
 🔗 [View Repository »](https://github.com/MissBaduwa/GrammaScope)
 
+---
+### 🍔 AmaChatBot – A Conversational Food Ordering Chatbot
+FastAPI + Dialogflow + MySQL + Cute HTML/CSS Frontend
+
+A natural language-powered chatbot that lets users place, modify, and track food orders via Dialogflow, with a live FastAPI backend with a CORS-configured webhook + session-based order tracking logic and an adorable orange-themed frontend — all without a single JavaScript framework.
+
+🔗 [View Repository »](https://github.com/MissBaduwa/AmaChatbot)
+
+---
+
+### 🌊 HYDROBOT
+An autonomous robotic system for cleaning surface water debris in lakes and rivers.  
+🧠 Focused on unsupervised operation using sensors and real-time object detection  
+🌱 Designed for deployment in areas affected by plastic pollution
 
 ---
 ## 🌱 Interests
