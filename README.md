@@ -23,7 +23,7 @@
 
 🎓 Final-Year Computer Science Student at **Academic City University College**, Ghana  
 💡 Building **AI-powered tools** to solve real-world challenges  
-📍 Based in Accra, Ghana  
+📍 Based in Texas, USA 
 🧠 Currently learning: Deep Learning, Model Serving, MLOps  
 
 ---
