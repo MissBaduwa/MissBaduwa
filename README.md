@@ -118,6 +118,8 @@ An autonomous robotic system for cleaning surface water debris in lakes and rive
 ---
 ## 🌱 Interests
 
+- AI Engineering
+- Computer Visio
 - Deep Learning & MLOps  
 - Robotics for Sustainability  
 - EdTech & Digital Literacy  
@@ -129,6 +131,7 @@ An autonomous robotic system for cleaning surface water debris in lakes and rive
 ---
 
 ## 📈 GitHub Stats
+![Profile Views](https://komarev.com/gh/username/MissBaduwa?label=Profile%20Views&color=blueviolet)
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MissBaduwa&theme=onedark&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" /> </div>
 
