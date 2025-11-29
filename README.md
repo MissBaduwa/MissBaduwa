@@ -131,16 +131,18 @@ An autonomous robotic system for cleaning surface water debris in lakes and rive
 ---
 
 ## 📈 GitHub Stats
-![Profile Views](https://komarev.com/gh/username/MissBaduwa?label=Profile%20Views&color=blueviolet)
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=MissBaduwa&theme=onedark&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies" /> </div>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MissBaduwa&layout=compact&theme=react" height="200"/>
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MissBaduwa&theme=github&bg_color=1a1b27&color=ff79c6&line=feb47b&point=ff79c6&area=true&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MissBaduwa&label=Profile%20Views&color=blueviolet" alt="Profile views" />
+</p>
 ---
 
 
